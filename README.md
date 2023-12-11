@@ -102,4 +102,4 @@ Consideration of Factors:
 
 This GitHub repository documents our detailed approach to implementing machine learning in the Agriculture CRM domain. Each phase is carefully executed to ensure a robust, accurate, and deployable model that enhances decision-making and customer relationship management within the agricultural sector.
 
-This Agriculture CRM project emerged as the winning solution in a hackathon, garnering full appreciation for its innovative approach and impactful implementation.
+This Agriculture CRM project emerged as the winning solution in a 24-hour hackathon, garnering full appreciation for its innovative approach and impactful implementation.
